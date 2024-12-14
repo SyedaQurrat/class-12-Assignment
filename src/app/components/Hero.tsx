@@ -1,6 +1,6 @@
 
   import React from "react";
-  import Section from "./section";
+  import Section from "./Section";
   import { FaArrowRight } from "react-icons/fa";
   import { Inter } from "next/font/google";
 

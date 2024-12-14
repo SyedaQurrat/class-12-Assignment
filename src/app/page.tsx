@@ -1,11 +1,12 @@
 
 import React from 'react';
-import Navbar from './components/navbar';
-import Hero from './components/hero';
-import Project from './components/project';
-import Ourwork from './components/ourwork';
-import Oursponsers from './components/oursponsers';
-import Footer from './components/footer';
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Project from "./components/Project";
+import Ourwork from "./components/Ourwork";
+
+import Oursponsers from "./components/Oursponsers";
+import Footer from "./components/Footer";
 
 
 const Home = () => {
@@ -14,8 +15,6 @@ const Home = () => {
       <Navbar/>
       <Hero/>
       <Project/>
-      
-      
       <Ourwork/>
       <Oursponsers/>
       <Footer/>
