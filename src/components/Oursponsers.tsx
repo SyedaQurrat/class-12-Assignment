@@ -1,10 +1,10 @@
 import React from "react";
 import { Inter } from "next/font/google";
 import Image from "next/image";
-import apple from "../../../public/Apple.png";
-import microsoft from "../../../public/microsoft 1.png";
-import slack from "../../../public/Slack_Technologies_Logo 1.png";
-import google from "../../../public/Group 246.png";
+import apple from "../../public/images/Apple.png";
+import microsoft from "../../public/images/microsoft 1.png";
+import slack from "../../public/images/Slack_Technologies_Logo 1.png";
+import google from "../../public/images/Group 246.png";
 
 const inter = Inter({
   weight: ["500"],

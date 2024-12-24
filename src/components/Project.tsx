@@ -3,7 +3,7 @@ import Section from "./Section";
 import { FaArrowRight } from "react-icons/fa";
 import { Inter } from "next/font/google";
 import Image from "next/image";
-import image from "../../../public/Work Together Image.png";
+import image from "../../public/images/Work Together Image.png";
 
 const inter = Inter({
   weight: ["500"],
